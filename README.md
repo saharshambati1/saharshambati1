@@ -10,7 +10,7 @@ I build useful, polished applications for mobile and the web.
 
 ## About Me
 
-- I work with **Python, HTML, and CSS**.
+- I work with **Python, HTML, CSS, React Native, and Node.js**.
 - I enjoy turning ideas into complete, deployed products.
 - I have built and deployed the **Events app** for both **Android and the web**.
 - I am a **two-time hackathon winner**.
@@ -18,7 +18,7 @@ I build useful, polished applications for mobile and the web.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css" alt="Python, HTML, and CSS" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,react,nodejs" alt="Python, HTML, CSS, React Native, and Node.js" />
 </p>
 
 ## Featured Project
